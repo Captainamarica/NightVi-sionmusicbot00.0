@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Mr-dark-prince/EvaMaria",
+    "repository": "https://github.com/Captainamarica/NightVi-sionmusicbot00.0",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
